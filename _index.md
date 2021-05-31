@@ -1,5 +1,5 @@
 ---
-title: "Hello from Broken Pieces!"
+title: "Hello!"
 ---
 
 We're Broken Pieces, a small grunge, rock, and alternative band from the Kansas City area. We are open to playing live.
