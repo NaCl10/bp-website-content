@@ -4,7 +4,7 @@ title: "Hello from Broken Pieces!"
 
 We're Broken Pieces, a small grunge, rock, and alternative band from the Kansas City area. We are open to playing live.
 
-We were founded - and remain - as a close group of friends who share a passion for music and its creation. We make the music we do because we like it and we like to make it.
+We were founded as - and remain - a close group of friends who share a passion for music and its creation. We make the music we do because we like it and we like to make it.
 
 Here's a picture of us:
 ![The members of Broken Pieces](pretend there's a URL here)
