@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+description: "Here’s how to contact Broken Pieces, for anything from bookings to fan questions."
 menu: main
 ---
 
