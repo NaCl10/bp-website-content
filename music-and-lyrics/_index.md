@@ -8,3 +8,8 @@ weight: 4
 #images: ["", ""]
 ---
 
+{{< rawhtml >}}
+<h1 class="gold">WARNING:</h1>
+{{< /rawhtml >}}
+
+This database is not yet fully complete, and will probably never be fully complete. However, you'll still find whatever resources we have available in here.
