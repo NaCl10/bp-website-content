@@ -6,4 +6,4 @@ images: ["/music-and-lyrics/snakeskin.jpg"]
 # We have to do this, otherwise Hugo will make everything into a blog post
 type: page
 ---
- - [Snakeskin guitar tab](/music-and-lyrics/snakeskin.jpg)
+ - [Snakeskin guitar tab (JPEG, 114 KiB)](/music-and-lyrics/snakeskin.jpg)

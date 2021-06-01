@@ -5,5 +5,5 @@ description: "Music and lyrics for Embers by Broken Pieces"
 images: ["/music-and-lyrics/embers.jpg"] 
 type: page
 ---
- - [Embers guitar tab](/music-and-lyrics/embers.jpg)
- - [Embers bass tab](/music-and-lyrics/embers-bass.jpg)
+ - [Embers guitar tab (JPEG, 132 KiB)](/music-and-lyrics/embers.jpg)
+ - [Embers bass tab (JPEG, 128 KiB)](/music-and-lyrics/embers-bass.jpg)
