@@ -4,8 +4,14 @@ description: "We’re Broken Pieces, a small grunge, rock, and alternative band 
 images: ["/img/brokenpieces-logo-transparent.webp"]
 ---
 
+{{< rawhtml >}}
+<!--This theme automatically puts the page title and description at the top of the page, so we start at the second paragraph and don't add the "Hello!"-->
+{{< /rawhtml >}}
+
 We were founded as — and remain — a close group of friends who share a passion for music and its creation. We make the music we do because we like it and we like to make it.
 
 Here's a picture of us:
 ![The members of Broken Pieces](pretend there's a URL here)
 Left to right: Gabe Schmitz (guitar), Ehren Hoesly (bass), Josiah Fillingham (drums), and Tommy Micks (guitar).
+
+You can check out our "playground," a land of demos, experimental singles, and prototyping for upcoming music on [our SoundCloud](https://soundcloud.com/user-500281291); or follow us on [our Instagram](https://www.instagram.com/broken_piecesofficial1/).
