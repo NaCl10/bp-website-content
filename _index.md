@@ -14,4 +14,4 @@ Here's a picture of us:
 ![The members of Broken Pieces](pretend there's a URL here)
 Left to right: Gabe Schmitz (guitar), Ehren Hoesly (bass), Josiah Fillingham (drums), and Tommy Micks (guitar).
 
-You can check out our "playground," a land of demos, experimental singles, and prototyping for upcoming music on [our SoundCloud](https://soundcloud.com/user-500281291); or follow us on [our Instagram](https://www.instagram.com/broken_piecesofficial1/).
+You can check out our "playground," a land of demos, experimental singles, and prototyping for upcoming music on {{< newtab link="https://soundcloud.com/user-500281291" >}}our SoundCloud{{< /newtab >}}; or follow us on {{< newtab link="https://www.instagram.com/broken_piecesofficial1/" >}}our Instagram{{< /newtab >}}.
