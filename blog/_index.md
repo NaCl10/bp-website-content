@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "Blog posts from Broken Pieces"
+description: "Our story"
 # Use these next two if this page needs to be in a menu
 menu: "main"
 weight: 3

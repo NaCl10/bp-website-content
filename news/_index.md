@@ -1,6 +1,6 @@
 ---
 title: "News"
-description: "The latest news from Broken Pieces"
+description: "Upcoming shows, new releases, etc."
 # Use these next two if this page needs to be in a menu
 menu: "main"
 weight: 2
