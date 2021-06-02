@@ -9,4 +9,4 @@ menu: "footer"
 ---
 All content on this website is the copyright of Broken Pieces.
 
-The backend source code, including layouts, CSS, JavaScript, themes, etc. is released under the GNU General Public License version 3.0, and is available on [GitHub](https://github.com/brokenpiecesofficial/bp-website). [The theme of this website](https://themes.gohugo.io/gohugo-theme-ananke/) is the property of [theNewDynamic](https://github.com/theNewDynamic/), licensed to Broken Pieces under the MIT License.
+The backend source code, including layouts, CSS, JavaScript, themes, etc. is released under the GNU General Public License version 3.0, and is available on {{< newtab link="https://github.com/brokenpiecesofficial/bp-website" >}}GitHub{{< /newtab >}}. {{< newtab link="https://themes.gohugo.io/gohugo-theme-ananke/" >}}The theme of this website{{< /newtab >}} is the property of {{< newtab link="https://github.com/theNewDynamic/" >}}theNewDynamic{{< /newtab >}}, licensed to Broken Pieces under the MIT License.
