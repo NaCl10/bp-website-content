@@ -6,7 +6,7 @@ menu: "main"
 weight: 4
 # Use this if there are images in the page or images that are relevant to the page
 #images: ["", ""]
-featured_image: "/music-and-lyrics/music-and-lyrics-hero.jpg"
+featured_image: "/music-and-lyrics/hero.jpg"
 ---
 
 {{< rawhtml >}}
