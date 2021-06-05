@@ -2,6 +2,7 @@
 title: "Contact Us"
 description: "Here’s how to contact Broken Pieces, for anything from bookings to fan questions."
 menu: main
+weight: 4
 ---
 
 Here's how to contact us, for anything from bookings to fan questions.
