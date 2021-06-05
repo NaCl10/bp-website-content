@@ -5,6 +5,8 @@ description: "Our first show!"
 ---
 We had our first concert on Februrary 20, 2020! It was a blast for everyone, us included. 
 
+At this point, the band consisted of Malachi Schmitz (bass), Isaac Foust (keys), Gabe Schmitz (guitar), and Josiah Fillingham (drums).
+
 Here's a couple photos:
 ![Broken Pieces playing at their first show](/blog/first-show-1.jpg)
 ![Part of the crowd at Broken Pieces' first show](/blog/first-show-2.jpg)
