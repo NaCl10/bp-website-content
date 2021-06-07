@@ -6,6 +6,6 @@ menu: "main"
 weight: 2
 # Use this if there are images in the page or images that are relevant to the page
 #images: ["", ""]
-featured_image: "/news/hero.jpg"
+featured_image: "/img/news.jpg"
 ---
 
