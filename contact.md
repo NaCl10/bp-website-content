@@ -19,7 +19,7 @@ Please only contact us (especially through email) if it's something very importa
 ## How to contact us:
 
 ### Instagram
-This will probably work, but email is generally your best bet (see below). Here's {{< newtab link="https://www.instagram.com/broken_piecesofficial1/" >}}our instagram{{< /newtab >}}.
+This will probably work, but email is generally your best bet (see below). Here's {{< newtab link="https://www.instagram.com/brokenpieces_official/" >}}our instagram{{< /newtab >}}.
 
 ### Email
 This is generally your best option. It's checked the most often and is our main way of communicating with fans and anyone else. See the form below:

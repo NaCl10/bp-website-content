@@ -11,4 +11,4 @@ We started off as a classic three-piece band, with Gabe Schmitz on guitar, Malac
 
 Suffice to say, we're now a four-piece band: Tommy Micks on guitar, Gabe Schmitz also on guitar, Ehren Hoesly on bass, and Josiah Fillingham on drums.
 
-A little less than two years ago, rougly six months after we started, we figured we'd be rleasing an album fairly soon... and then the COVID-19 pandemic hit. While that certainly slowed our momentum some, we're back in the groove of things and are hoping to release the album soon, for real this time. You can also get a sneak peek over on {{< newtab link="https://soundcloud.com/user-500281291" >}}our SoundCloud "Playground"{{< /newtab >}}.
+A little less than two years ago, rougly six months after we started, we figured we'd be rleasing an album fairly soon... and then the COVID-19 pandemic hit. While that certainly slowed our momentum some, we're back in the groove of things and are hoping to release the album soon, for real this time. You can also get a sneak peek over on {{< newtab link="https://soundcloud.com/brokenpieces_official" >}}our SoundCloud "Playground"{{< /newtab >}}.
