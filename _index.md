@@ -11,6 +11,9 @@ featured_image: "/img/DSCF1731_cropped.jpg"
 
 We were founded as — and remain — a close group of friends who share a passion for music and its creation. We make the music we do because we like it and we like to make it.
 
+{{< rawhtml >}}<h1 style="color: red;">ATTENTION!</h1>{{< /rawhtml >}}
+We have our [first ever single](/news/new-single) coming out on Friday, November 18th! Mark your calendars and {{< newtab link=https://distrokid.com/hyperfollow/brokenpieces/spread-your-wings/ >}}pre-save{{< /newtab >}} and {{< newtab link=https://music.apple.com/us/album/spread-your-wings-single/1652257343/ >}}preorder{{< /newtab >}} now!
+
 Here's a picture of us:
 ![The members of Broken Pieces](/img/DSCF1731_cropped.jpg)
 Left to right: Gabe Schmitz (guitar), Josiah Fillingham (drums), Tommy Micks (guitar), and Gordon Van Dam (bass).
